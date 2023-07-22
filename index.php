@@ -1,3 +1,3 @@
 <?php
-echo  "Hello Wordl"; //teste
+echo  "Olá mundo"; //teste
 ?>
